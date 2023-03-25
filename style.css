@@ -9,8 +9,9 @@ button{
     justify-content: center;
     position: relative;
     cursor: pointer;
+    background-color: rgb(149, 222, 132);
 }
-.container{
+.main0{
     display: flex;
     flex-direction: column;
     gap: 2vh;
@@ -21,7 +22,7 @@ button{
     position: relative;
     left: 15%;
 }
-.groupBtn{
+.main1{
     position: relative;
     display: flex;
     left: 30%;
